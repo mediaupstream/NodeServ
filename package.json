@@ -1,0 +1,9 @@
+{
+  "name": "nodeserv",
+  "author": "Derek Anderson <derek@mediaupstream.com>",
+  "description": "Super Tiny NodeJS Multi-site hosting setup",
+  "version": "0.1.0",
+  "dependencies": {
+    "http-proxy": ">= 0.7.6"
+  }
+}
