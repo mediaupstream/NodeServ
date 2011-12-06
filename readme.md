@@ -1,6 +1,6 @@
 # NodeServ    
 
-**Host multiple NodeJS Applications and legacy code (php, rails, etc) using node-http-proxy**
+**Host multiple NodeJS Applications and legacy code (php, rails, etc) on one machine using node-http-proxy**
 
 ---  
 **Overview**  
@@ -35,7 +35,7 @@ An example router configuration could look like:
     }
    
 Now when you access `example` you'll get to the App that is running on port 8001 (in our case a nifty NodeJS 
-app). If you visit `super-awesome-site.com` you'll get to the app on port 8003, etc...
+app). If you visit `super-awesome-site.com` you'll get to the app on port 8002, etc...
 
 ---  
 
